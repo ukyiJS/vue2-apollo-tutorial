@@ -1,4 +1,4 @@
-# vue3-apollo-tutorial
+# vue2-apollo-tutorial
 
 <p align="center">
   <a href="https://apollo.vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/ukyiJS/vue2-apollo-tutorial/master/src/assets/img/project-logo.png" height="160"/></a>
